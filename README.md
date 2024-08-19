@@ -25,3 +25,5 @@ python donsrun.py
 This will start the program and you will see the output in the command prompt. 
 The "terminal" in Windows is called the "command prompt".
 You can get to it via the Start menu, or by typing `cmd` in the search bar.
+
+See [Output Graph](./DJIA-2yr.png)
